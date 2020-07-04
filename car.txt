@@ -6,8 +6,8 @@ alpha
 ddd
 beta
 csde
-gamma
-delta
-appka
-new variable 3
-new variable 4
+suzuki
+duke
+bike1
+bike2
+
