@@ -10,4 +10,5 @@ suzuki
 duke
 bike1
 bike2
-bike6
+bike3
+
