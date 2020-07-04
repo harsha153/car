@@ -8,3 +8,5 @@ beta
 csde
 suzuki
 duke
+bike1
+bike2
