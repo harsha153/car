@@ -8,6 +8,6 @@ beta
 csde
 gamma
 delta
-kappa
+appka
 new variable 3
 new variable 2
